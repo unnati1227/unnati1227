@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Unnati Mishra</h1>
-<h3 align="center">Software Developer with 1+ year of experience building responsive frontend interfaces and scalable backend systems. Skilled in developing end-to-end web applications, optimizing performance, and delivering clean, maintainable code across the full stack.</h3>
+<h3 align="center">This is my new GitHub account, the previous one was lost due to a technical issue, rebuilding and updating this one consistently. Software Developer with 1+ year of experience building responsive frontend interfaces and scalable backend systems. Skilled in developing end-to-end web applications, optimizing performance, and delivering clean, maintainable code across the full stack.</h3>
 
 - 🌱 I’m currently learning **Java, Typescript, LLM Models**
 
