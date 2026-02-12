@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I've spent hours debugging code, only to realize the solution was a missing semicolon all along.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
